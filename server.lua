@@ -8,7 +8,7 @@ else
 end
 
 -------- Item ------------
-ESX.RegisterUsableItem(Config.BatteryItem, function(playerid)
+ESX.RegisterUsableItem("phone_battery", function(playerid)
     local xPlayer = ESX.GetPlayerFromId(playerid)
 	xPlayer.removeInventoryItem("phone_battery", 1)
 		local battery = 100
