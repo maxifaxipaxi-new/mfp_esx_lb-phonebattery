@@ -1,5 +1,5 @@
-RegisterNetEvent('mfp_phonebattery:setBattery')
-AddEventHandler('mfp_phonebattery:setBattery', function(battery)
+RegisterNetEvent('lb-addon-phone-community:setBattery')
+AddEventHandler('lb-addon-phone-community:setBattery', function(battery)
   local xPlayer = PlayerPedId()
   print(xPlayer.." & "..battery) -- for debug only
   exports["lb-phone"]:SetBattery(battery)
