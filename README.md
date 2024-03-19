@@ -1,4 +1,4 @@
-# PhoneBattery for LB-Phone
+# (ESX) PhoneBattery for LB-Phone
 Simple use of *exports of LB-Phone for ESX*. 
 **Usable battery for instant charge.**.
 *This script is very simple for servers who want to use phonebattery like bigservers do.*
