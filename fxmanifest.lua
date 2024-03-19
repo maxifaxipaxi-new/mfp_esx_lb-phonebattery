@@ -1,8 +1,9 @@
 fx_version 'bodacious'
 game 'gta5'
-  
-description 'simple LB-Phone ADDON'
-author 'LB-Phone-Community (MFP)'
+
+title "{ESX} LB Phone - PhoneBattery Addon"
+description 'simple LB-Phone Battery Script (ESX only)'
+author 'MFPSCRIPTS.com'
 version '1.0' 
 
 lua54 'yes'
